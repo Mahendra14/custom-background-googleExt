@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Popup Extension",
+    "description": "Just a popup greeting you to have a great day",
+    "version": "1.0",
+    "icons": {
+      "48": "images/icons8.png"
+    },
+    "action": {
+        "default_popup": "hello.html",
+        "default_icon": "hello_extensions.png"
+      }
+  }
